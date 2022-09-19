@@ -2,7 +2,7 @@
 
 This repository is for sharing the codes and data that are used in the following paper.
 
-> Jae-Joong Lee, Sungwoo Lee, Dong Hee Lee, Choong-Wan Woo\*, Functional Brain Reconfiguration During Sustained Pain, 2022, _under review_ ([link](https://www.biorxiv.org/content/10.1101/2021.10.16.464642v1))
+> Jae-Joong Lee, Sungwoo Lee, Dong Hee Lee, Choong-Wan Woo\*, Functional Brain Reconfiguration During Sustained Pain, 2022, _eLife_ ([link](https://doi.org/10.7554/eLife.74463))
 
 <br>
 
