@@ -17,3 +17,7 @@ This repository is for sharing the codes and data that are used in the following
 ## Questions?
 
 If you have any questions, please email [Wani](mailto:choongwan.woo@gmail.com) or [Jaejoong](mailto:jaejoonglee92@gmail.com).
+
+<br>
+
+Note: For deriving multi-layer community structures, please refer to GenLouvain toolbox ([link](https://github.com/GenLouvain/GenLouvain)))
