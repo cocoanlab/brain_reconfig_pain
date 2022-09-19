@@ -20,4 +20,4 @@ If you have any questions, please email [Wani](mailto:choongwan.woo@gmail.com) o
 
 <br>
 
-Note: For deriving multi-layer community structures, please refer to GenLouvain toolbox ([link](https://github.com/GenLouvain/GenLouvain)))
+Note: For deriving multi-layer community structures, please refer to GenLouvain toolbox ([link](https://github.com/GenLouvain/GenLouvain))
